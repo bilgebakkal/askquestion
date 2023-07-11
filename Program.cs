@@ -20,7 +20,7 @@ namespace AskQuestion
         private static async Task<string> CallOpenAI(int tokens, string input, string engine,
             double temperature, int topP, int frequencyPenalty, int presencePenalty)
         {
-            var openAiKey = "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";
+            var openAiKey = "Lütfen Kendi Apini Gir";
             var apiCall = $"https://api.openai.com/v1/engines/{engine}/completions";
 
             try

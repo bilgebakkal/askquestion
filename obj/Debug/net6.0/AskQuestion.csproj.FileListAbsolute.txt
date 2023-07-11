@@ -1,0 +1,17 @@
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\AskQuestion.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\AskQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\AskQuestion.AssemblyInfoInputs.cache
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\AskQuestion.AssemblyInfo.cs
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\AskQuestion.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\bin\Debug\net6.0\AskQuestion.exe
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\bin\Debug\net6.0\AskQuestion.deps.json
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\bin\Debug\net6.0\AskQuestion.runtimeconfig.json
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\bin\Debug\net6.0\AskQuestion.dll
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\bin\Debug\net6.0\AskQuestion.pdb
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\AskQuestion.csproj.CopyComplete
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\AskQuestion.dll
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\refint\AskQuestion.dll
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\AskQuestion.pdb
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\AskQuestion.genruntimeconfig.cache
+C:\Users\samet\source\repos\AskQuestion\AskQuestion\obj\Debug\net6.0\ref\AskQuestion.dll
